@@ -1,0 +1,5 @@
+.background__circle_position_bottom-left {
+  bottom: 0;
+  right: 0;
+  transform: translate(10%, 60%);
+}

@@ -1,0 +1,26 @@
+.form__checkbox-custom {
+  margin: 0 10px 0 0;
+  padding: 0;
+  width: 15px;
+  height: 15px;
+  border: 1px solid gray;
+  border-radius: 3px;
+  position: relative;
+}
+
+.form__checkbox-custom::before {
+  content: '';
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  background-image: url(../../../images/Check.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0;
+  transition: .2s;
+}
+
+.form__checkbox-input:checked + .form__checkbox-custom::before {
+  opacity: 1;
+}

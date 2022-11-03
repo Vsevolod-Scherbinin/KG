@@ -1,0 +1,27 @@
+/* Vendor-Start */
+@import url(../vendor/fonts/fonts.css);
+/* Vendor-End */
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/background/background.css);
+@import url(../blocks/background/__circle/_position/background__circle_position_top.css);
+@import url(../blocks/background/__circle/_position/background__circle_position_bottom-left.css);
+@import url(../blocks/background/__circle/_position/background__circle_position_bottom-right.css);
+@import url(../blocks/background/__circle/background__circle.css);
+
+@import url(../blocks/promo/promo.css);
+@import url(../blocks/promo/__image/promo__image.css);
+@import url(../blocks/promo/__title/promo__title.css);
+@import url(../blocks/promo/__notation/promo__notation.css);
+@import url(../blocks/promo/__form/promo__form.css);
+
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/__email-input/form__email-input.css);
+@import url(../blocks/form/__checkbox/form__checkbox.css);
+@import url(../blocks/form/__checkbox-input/form__checkbox-input.css);
+@import url(../blocks/form/__checkbox-custom/form__checkbox-custom.css);
+@import url(../blocks/form/__checkbox-label/form__checkbox-label.css);
+@import url(../blocks/form/__submit/form__submit.css);
+
+

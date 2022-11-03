@@ -1,0 +1,23 @@
+.background__circle {
+  margin: 0;
+  padding: 0;
+  width: 180px;
+  height: 145px;
+  border-radius: 50%;
+  position: absolute;
+  background-color: #FB683F;
+}
+
+@media screen and (min-width: 768px) {
+  .background__circle {
+    width: 200px;
+    height: 200px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .background__circle {
+    width: 250px;
+    height: 250px;
+  }
+}
