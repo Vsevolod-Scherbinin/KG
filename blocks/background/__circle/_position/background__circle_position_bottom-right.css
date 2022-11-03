@@ -3,3 +3,9 @@
   right: 0;
   transform: translate(50%, 20%);
 }
+
+@media screen and (max-height: 500px) {
+  .background__circle_position_bottom-right {
+    display: none;
+  }
+}
