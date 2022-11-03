@@ -1,6 +1,7 @@
 .promo__title {
   margin: 0 0 15px;
   padding: 0;
+  max-width: 100%;
   font-size: 16px;
   text-align: center;
 }
