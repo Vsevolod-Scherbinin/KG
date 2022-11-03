@@ -4,7 +4,7 @@
   transform: translate(50%, 20%);
 }
 
-@media screen and (max-height: 600px) {
+@media screen and (max-height: 630px) {
   .background__circle_position_bottom-right {
     display: none;
   }

@@ -24,5 +24,6 @@
 @import url(../blocks/form/__checkbox-label/form__checkbox-label.css);
 @import url(../blocks/form/__submit/form__submit.css);
 @import url(../blocks/form/__link/form__link.css);
+@import url(../blocks/form/__link/_place/form__link_place_checkbox-label.css);
 
 
